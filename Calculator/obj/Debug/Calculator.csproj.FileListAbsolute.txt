@@ -1,0 +1,9 @@
+H:\Asp Site\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\Asp Site\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\Asp Site\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.pdb
