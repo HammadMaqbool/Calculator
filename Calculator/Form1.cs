@@ -80,9 +80,16 @@ namespace Calculator
         }
         private void Minus_Click(object sender, EventArgs e)
         {
-            Choice = "-";
-            step_1_data = Convert.ToInt32(textBox1.Text);
-            textBox1.Clear();
+            try
+            {
+                Choice = "-";
+                step_1_data = Convert.ToInt32(textBox1.Text);
+                textBox1.Clear();
+            }
+            catch(Exception ee)
+            {
+                MessageBox.Show(ee.ToString());
+            }
         }
         private void Multiplay_Click(object sender, EventArgs e)
         {

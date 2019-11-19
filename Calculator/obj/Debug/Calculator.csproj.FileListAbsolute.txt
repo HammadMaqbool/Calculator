@@ -7,3 +7,12 @@ H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.reso
 H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
 H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.exe
 H:\Asp Site\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\CCS\Documents\Visual Studio 2013\Projects\clonecal\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
